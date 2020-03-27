@@ -9,3 +9,4 @@
 [(vidéo)](https://unspod.unice.fr/video/7000-ande-cm-2-maximisation-de-lutilite)
 
 [TD 1 - Choix, préférences, utilité](https://github.com/jbcaillau/ande/blob/master/td1/td1.ipynb)
+[(corrigé)](td1/td1-corr.pdf)
