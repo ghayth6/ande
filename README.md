@@ -5,8 +5,7 @@
 
 [Plan du cours](cm/cm.pdf)
 
-Cours 2 - Maximisation de l'utilité
-[(notes)](cm2/notes.pdf)
+[Cours 2 - Maximisation de l'utilité](cm2/notes.pdf)
 [(vidéo)](https://unspod.unice.fr/video/7000-ande-cm-2-maximisation-de-lutilite)
 
 [TD 1 - Choix, préférences, utilité](https://github.com/jbcaillau/ande/blob/master/td1/td1.ipynb)
