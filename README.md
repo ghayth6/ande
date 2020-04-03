@@ -12,3 +12,4 @@
 [(corrigé)](td1/td1-corr.pdf)
 
 [TD 2 - Maximisation de l'utilité](https://github.com/jbcaillau/ande/blob/master/td2/td2.ipynb)
+[(corrigé)](td2/td2-corr.pdf)
