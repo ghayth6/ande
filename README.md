@@ -16,6 +16,8 @@
 
 [TD 2 - Maximisation de l'utilité](https://github.com/jbcaillau/ande/blob/master/td2/td2.ipynb)
 [(corrigé)](td2/td2-corr.pdf)
+[(notebook 1)](https://github.com/jbcaillau/ande/blob/master/td2/td2a.ipynb)
+[(notebook 2)](https://github.com/jbcaillau/ande/blob/master/td2/td2b.ipynb)
 
 [TD 3 - Jeux](https://github.com/jbcaillau/ande/blob/master/td3/td3.ipynb)
 [(corrigé)](td3/td3-corr.pdf)
