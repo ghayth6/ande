@@ -11,6 +11,8 @@
 [Cours 3 - Kuhn, Tucker, Marshall et Hicks](cm3/notes.pdf)
 [(vidéo)](https://unspod.unice.fr/video/7570-ande-cm-3-kuhn-tucker-marshall-et-hicks)
 
+[Cours 4 - Dilemme et jeux](cm4/notes.pdf)
+
 [TD 1 - Choix, préférences, utilité](https://github.com/jbcaillau/ande/blob/master/td1/td1.ipynb)
 [(corrigé)](td1/td1-corr.pdf)
 
