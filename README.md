@@ -13,6 +13,8 @@
 
 [Cours 4 - Dilemme et jeux](cm4/notes.pdf)
 
+[Cours 5 - Le hasard s'en mêle](cm5/notes.pdf)
+
 [TD 1 - Choix, préférences, utilité](https://github.com/jbcaillau/ande/blob/master/td1/td1.ipynb)
 [(corrigé)](td1/td1-corr.pdf)
 
