@@ -12,6 +12,7 @@
 [(vidéo)](https://unspod.unice.fr/video/7570-ande-cm-3-kuhn-tucker-marshall-et-hicks)
 
 [Cours 4 - Dilemme et jeux](cm4/notes.pdf)
+[(vidéo)](https://unspod.unice.fr/video/7801-ande-cm-4-dilemme-jeux)
 
 [Cours 5 - Le hasard s'en mêle](cm5/notes.pdf)
 
