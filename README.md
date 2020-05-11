@@ -15,6 +15,7 @@
 [(vidéo)](https://unspod.unice.fr/video/7801-ande-cm-4-dilemme-jeux)
 
 [Cours 5 - Le hasard s'en mêle](cm5/notes.pdf)
+[(vidéo)](https://unspod.unice.fr/video/7802-ande-cm-5-le-hasard-sen-mele)
 
 [TD 1 - Choix, préférences, utilité](https://github.com/jbcaillau/ande/blob/master/td1/td1.ipynb)
 [(corrigé)](td1/td1-corr.pdf)
