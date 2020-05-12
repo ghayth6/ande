@@ -3,7 +3,7 @@
 # Analyse de la décision
 # 2019-2020
 
-[Plan du cours]((https://github.com/jbcaillau/ande/blob/master/cm/cm.ipynb)
+[Plan du cours](https://github.com/jbcaillau/ande/blob/master/cm/cm.ipynb)
 
 [Cours 2 - Maximisation de l'utilité](cm2/notes.pdf)
 [(vidéo)](https://unspod.unice.fr/video/7000-ande-cm-2-maximisation-de-lutilite)
