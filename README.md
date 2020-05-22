@@ -3,6 +3,8 @@
 # Analyse de la décision
 # 2019-2020
 
+[FAQ](https://hackmd.io/@caillau/SklNWfBjL)
+
 [Plan du cours](https://github.com/jbcaillau/ande/blob/master/cm/cm.ipynb)
 
 [Cours 2 - Maximisation de l'utilité](cm2/notes.pdf)
@@ -27,3 +29,5 @@
 
 [TD 3 - Jeux](https://github.com/jbcaillau/ande/blob/master/td3/td3.ipynb)
 [(corrigé)](td3/td3-corr.pdf)
+
+[Projet](https://github.com/jbcaillau/ande/blob/master/proj/proj.ipynb)
